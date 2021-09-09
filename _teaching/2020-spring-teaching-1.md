@@ -8,13 +8,5 @@ date: 2020-01-06
 location: "East Lansing, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This will be a seminar-style course where students will be assigned a number of papers to read. Students will then be expected to submit critiques for these papers as well as present these papers during the lecture. The papers will cover salient topics in biometrics and deep learning. These include concepts in face detection and alignment, face recognition, face anti-spoofing, iris recognition, fingerprint recognition and deep learning. The project component of this course will test the student’s ability to design deep learning solutions for biometrics applications. 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
