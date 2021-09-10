@@ -9,3 +9,9 @@ redirect_from:
 ---
 
 The image and vision lab performs research in the fields of image and video analysis, computer vision, and deep learning. 
+
+### News
+
+- Dr. Chen won Best Reviewers award from CCBR 2021.
+- Dr. Chen served as a Session Chair for IJCB 2021.
+- Dr. Chen won Outstanding Area Chairs award from ICME 2021.
