@@ -1,3 +1,5 @@
-== 2021
+2021
+======
+
 . D. Anghelone, C. Chen, P. Faure, A. Ross, A. Dantcheva, “Explainable Thermal to Visible Face Recognition Using Latent-Guided Generative Adversarial Network,” Proc. of 16th IEEE International Conference on Automatic Face & Gesture Recognition (FG), December 2021.
 . C. Chen, A. Ross, “An Explainable Attention-Guided Iris Presentation Attack Detector,” Workshop on Explainable & Interpretable Artificial Intelligence for Biometrics (xAI4Biometrics) at the IEEE Winter Conference on Applications of Computer Vision (WACV), January 2021. \[[https://arxiv.org/abs/2010.12631 PDF] \] {{<font color=red size=+0.5><b>}}(Best Paper Award){{</b></font>}} 
