@@ -6,5 +6,9 @@ author_profile: true
 ---
 
 ### Journal articles
-#### Forthcoming
-[51] **Di X**, Woelfer M, Kuhn SB, Zhang Z, Biswal BB (accepted): Estimations of the weather effects on brain functions using functional MRI: a cautionary note. Hum Brain Mapp [bioRxiv](https://doi.org/10.1101/646695)
+**C. Chen**, A. Dantcheva, A. Ross, \"An Ensemble of Patch-based Subspaces for Makeup-Robust Face Recognition\", Information Fusion Journal, 2016. 
+[PDF](http://www.cse.msu.edu/~rossarun/pubs/ChenDantchevaRoss_FaceMakeupINFFUS2016.pdf)
+
+
+
+
