@@ -10,5 +10,6 @@ author_profile: true
 * [Cunjian Chen](https://cunjian.github.io/)
 
 ### Graduate Students
-* [Frontiers in Brain Imaging and Stimulation section](https://www.frontiersin.org/journals/human-neuroscience/sections/brain-imaging-and-stimulation), 2021 - present.
+* [Yuxin Wang](https://github.com/cunjian/cviu), 2021 - present.
+* [Yilin Zhang](https://github.com/cunjian/cviu), 2021 - present.
 
