@@ -1,7 +1,7 @@
 ---
 title: "Explainable Thermal to Visible Face Recognition Using Latent-Guided Generative Adversarial Network"
 collection: publications
-permalink: /publication/2021-12-15-paper-title-number-3
+permalink: /publication/2021-12-15-paper-lggan
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2021-12-15
 venue: 'IEEE International Conference on Automatic Face & Gesture Recognition (FG)'
