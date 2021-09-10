@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+### Book Chapters
+D. Reid, S. Samangooei, **C. Chen**, M. S. Nixon, A. Ross , "Soft Biometrics for Surveillance: An Overview". in Handbook of Statistics, Vol. 31, C. R. Rao and V. Govindaraju (Eds.), Elsevier 2013. 
+
 ### Journals
 **C. Chen**, A. Dantcheva, A. Ross, "An Ensemble of Patch-based Subspaces for Makeup-Robust Face Recognition", Information Fusion Journal, 2016. 
 [PDF](http://www.cse.msu.edu/~rossarun/pubs/ChenDantchevaRoss_FaceMakeupINFFUS2016.pdf)
