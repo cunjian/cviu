@@ -14,4 +14,5 @@ The image and vision lab performs research in the fields of image and video anal
 
 - Dr. Chen won Best Reviewers award from CCBR 2021.
 - Dr. Chen served as a Session Chair for IJCB 2021.
+- One FG 2021 paper on thermal-to-visible face matching accepted.
 - Dr. Chen won Outstanding Area Chairs award from ICME 2021.
