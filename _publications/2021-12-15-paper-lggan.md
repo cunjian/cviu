@@ -1,13 +1,3 @@
----
-title: "Explainable Thermal to Visible Face Recognition Using Latent-Guided Generative Adversarial Network"
-collection: publications
-permalink: /publication/2021-12-15-paper-lggan
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2021-12-15
-venue: 'IEEE International Conference on Automatic Face & Gesture Recognition (FG)'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
----
-This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+== 2021
+. D. Anghelone, C. Chen, P. Faure, A. Ross, A. Dantcheva, “Explainable Thermal to Visible Face Recognition Using Latent-Guided Generative Adversarial Network,” Proc. of 16th IEEE International Conference on Automatic Face & Gesture Recognition (FG), December 2021.
+. C. Chen, A. Ross, “An Explainable Attention-Guided Iris Presentation Attack Detector,” Workshop on Explainable & Interpretable Artificial Intelligence for Biometrics (xAI4Biometrics) at the IEEE Winter Conference on Applications of Computer Vision (WACV), January 2021. \[[https://arxiv.org/abs/2010.12631 PDF] \] {{<font color=red size=+0.5><b>}}(Best Paper Award){{</b></font>}} 
