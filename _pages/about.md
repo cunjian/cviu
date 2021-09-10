@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-The image and vision lab performs research in the fields of image and video analysis, computer vision, and deep learning. 
+The image and vision lab performs research in the fields of image and video analysis, computer vision, and deep learning. The lab's director is [Dr. Cunjian Chen](https://cunjian.github.io/).
 
 ### News
 
