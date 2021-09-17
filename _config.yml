@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Image and Vision Lab"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Image and Vision Lab"
 description              : &description "personal description"
 url                      : https://cunjian.github.io/cviu # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -108,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "CunjianC"
   vine             :
   weibo            :
   xing             :
