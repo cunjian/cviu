@@ -13,7 +13,7 @@ author_profile: true
 * Qinglong Cao (Fall 2022-)
 * Yiqiang Wang (Fall 2022-)
 * Ziqing Wang (Fall 2022-)
-* Hanrui Wang 
+* Hanrui Wang (Adversarial Attack and Defense)
 
 ### MS Students
 * [Yuxin Wang](https://github.com/cunjian/cviu), 2021 - present.
