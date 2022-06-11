@@ -10,7 +10,6 @@ author_profile: true
 * [Cunjian Chen](https://cunjian.github.io/)
 
 ### PhD Students
-* Qinglong Cao (Fall 2022-)
 * Yiqiang Wang (Fall 2022-)
 * Ziqing Wang (Fall 2022-)
 * Hanrui Wang (Adversarial Attack and Defense)
