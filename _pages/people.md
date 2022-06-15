@@ -10,11 +10,11 @@ author_profile: true
 * [Cunjian Chen](https://cunjian.github.io/)
 
 ### PhD Students
-* Yiqiang Wang (Fall 2022-)
+* Yiqiang Wang (Object Detection and Recognition)
 * Ziqing Wang (Fall 2022-)
 * Hanrui Wang (Adversarial Attack and Defense)
 
-### MS Students
+### Research Assistants
 * [Yuxin Wang](https://github.com/cunjian/cviu), 2021 - present.
 * [Yilin Zhang](https://github.com/cunjian/cviu), 2021 - present.
 
