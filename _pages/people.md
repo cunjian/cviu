@@ -11,7 +11,7 @@ author_profile: true
 
 ### PhD Students
 * Yiqiang Wang (Object Detection and Recognition)
-* Ziqing Wang (Fall 2022-)
+* Ziqing Wang (Deep Generative Models)
 * Hanrui Wang (Adversarial Attack and Defense)
 
 ### Research Assistants
