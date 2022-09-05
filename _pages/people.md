@@ -13,7 +13,7 @@ author_profile: true
 * Yiqiang Wang (Object Detection and Recognition)
 * Ziqing Wang (Deep Generative Models)
 * Hanrui Wang (Adversarial Attack and Defense)
-* Yinjie Zhao
+* Yinjie Zhao (Facial Analysis)
 
 ### Research Assistants
 * [Yuxin Wang](https://github.com/cunjian/cviu), 2021 - present.
