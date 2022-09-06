@@ -16,6 +16,6 @@ author_profile: true
 * Yinjie Zhao (Facial Analysis)
 
 ### Research Assistants
-* [Yuxin Wang](https://github.com/cunjian/cviu), 2021 - present.
-* [Yilin Zhang](https://github.com/cunjian/cviu), 2021 - present.
+* Yuxin Wang, 2021 - present.
+* Yilin Zhang, 2021 - present.
 
