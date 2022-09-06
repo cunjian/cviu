@@ -16,6 +16,6 @@ author_profile: true
 * Yinjie Zhao (Facial Analysis)
 
 ### Research Assistants
-* Yuxin Wang, 2021 - present.
-* Yilin Zhang, 2021 - present.
+* Yuxin Wang
+* Yilin Zhang
 
