@@ -10,12 +10,8 @@ author_profile: true
 * [Cunjian Chen](https://cunjian.github.io/)
 
 ### PhD Students
-* Yiqiang Wang (Object Detection and Recognition)
-* Ziqing Wang (Deep Generative Models)
-* Hanrui Wang (Adversarial Attack and Defense)
-* Yinjie Zhao (Facial Analysis)
+* Yinjie Zhao (Main, Facial Analysis)
+* Yiqiang Wang (Assocaite, Object Detection and Recognition)
+* Hanrui Wang (Assocaite, Adversarial Attack and Defense)
 
-### Research Assistants
-* Yuxin Wang
-* Yilin Zhang
 
