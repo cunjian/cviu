@@ -11,7 +11,7 @@ author_profile: true
 
 ### PhD Students
 * Yinjie Zhao (Main, Facial Analysis)
-* Yiqiang Wang (Assocaite, Object Detection and Recognition)
-* Hanrui Wang (Assocaite, Adversarial Attack and Defense)
+* Yiqiang Wang (Associate, Object Detection and Recognition)
+* Hanrui Wang (Associate, Adversarial Attack and Defense)
 
 
