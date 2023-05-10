@@ -10,6 +10,7 @@ author_profile: true
 * [Cunjian Chen](https://cunjian.github.io/)
 
 ### PhD Students
+* Yixin Huang (Main, Medical AI)
 * Xin Ma (Main, Deep Generative Models)
 * Yinjie Zhao (Main, Facial Analysis)
 * Yiqiang Wang (Associate, Low-level Image Analysis)
