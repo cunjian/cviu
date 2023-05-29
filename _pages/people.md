@@ -17,4 +17,6 @@ author_profile: true
 * Hanrui Wang (Associate, Adversarial Attack and Defense)
 * Ming Tang (Associate, Face Recognition and Demographic Bias)
 
+### Former Lab Members
 
+* Yuxin Wang MS (Intern between Fall 2021-Summer 2023). First job at JD.
