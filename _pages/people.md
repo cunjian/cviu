@@ -15,7 +15,6 @@ author_profile: true
 * Yinjie Zhao (Main, Facial Analysis)
 * Yiqiang Wang (Associate, Low-level Image Analysis)
 * Hanrui Wang (Associate, Adversarial Attack and Defense)
-* Ming Tang (Associate, Face Recognition and Demographic Bias)
 
 ### Former Lab Members
 
