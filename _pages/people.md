@@ -13,7 +13,7 @@ author_profile: true
 * Yixin Huang (Main, Medical AI)
 * Xin Ma (Main, Deep Generative Models)
 * Jing Xu (Main, GNNs in CV)
-* Yinjie Zhao (Main, Facial Analysis)
+* Yinjie Zhao (Main, Medical AI)
 * Yiqiang Wang (Associate, Low-level Image Analysis)
 * Hanrui Wang (Associate, Adversarial Attack and Defense)
 
