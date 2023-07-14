@@ -12,6 +12,7 @@ author_profile: true
 ### PhD Students
 * Yixin Huang (Main, Medical AI)
 * Xin Ma (Main, Deep Generative Models)
+* Jing Xu (Main, GNNs in CV)
 * Yinjie Zhao (Main, Facial Analysis)
 * Yiqiang Wang (Associate, Low-level Image Analysis)
 * Hanrui Wang (Associate, Adversarial Attack and Defense)
