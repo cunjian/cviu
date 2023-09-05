@@ -18,5 +18,6 @@ author_profile: true
 
 
 ### Former Lab Members
+* David Anghelone (External PhD 1/2021 - 07/2024). 
 * Hanrui Wang (PhD, 06/2021 - 07/2024). First job at National Institute of Informatics.
 * Yuxin Wang (MS, Intern between 08/2021 - 07/2023). First job at JD.
