@@ -18,5 +18,5 @@ author_profile: true
 * Hanrui Wang (Associate, Adversarial Attack and Defense)
 
 ### Former Lab Members
-
-* Yuxin Wang MS (Intern between Fall 2021-Summer 2023). First job at JD.
+* Hanrui Wang (Ph.D, 06/2021 - 07/2024). First job at National Institute of Informatics.
+* Yuxin Wang (MS, Intern between 08/2021 - 07/2023). First job at JD.
