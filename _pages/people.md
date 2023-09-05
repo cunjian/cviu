@@ -17,6 +17,7 @@ author_profile: true
 * Yiqiang Wang (Associate, Low-level Image Analysis)
 * Hanrui Wang (Associate, Adversarial Attack and Defense)
 
+
 ### Former Lab Members
-* Hanrui Wang (Ph.D, 06/2021 - 07/2024). First job at National Institute of Informatics.
+* Hanrui Wang (PhD, 06/2021 - 07/2024). First job at National Institute of Informatics.
 * Yuxin Wang (MS, Intern between 08/2021 - 07/2023). First job at JD.
