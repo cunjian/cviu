@@ -15,7 +15,6 @@ author_profile: true
 * Jing Xu (Main, GNNs in CV)
 * Yinjie Zhao (Main, Medical AI)
 * Yiqiang Wang (Associate, Low-level Image Analysis)
-* Hanrui Wang (Associate, Adversarial Attack and Defense)
 
 
 ### Former Lab Members
