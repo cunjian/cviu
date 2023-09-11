@@ -17,6 +17,8 @@ author_profile: true
 * Shikun Zhang (Main, 3D Face Reconstruction)
 * Yiqiang Wang (Associate, Low-level Image Analysis)
 
+### Research Assistants
+* Yitao Wang (SEU, 09/2023 - Present)
 
 ### Former Lab Members
 * David Anghelone (External PhD, 01/2021 - 07/2024). 
