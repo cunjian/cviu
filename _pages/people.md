@@ -18,7 +18,7 @@ author_profile: true
 * Yiqiang Wang (Associate, Low-level Image Analysis)
 
 ### Research Assistants
-* Yitao Wang (SEU, 09/2023 - Present)
+* Yitao Wang (MS, 09/2023 - Present)
 
 ### Former Lab Members
 * David Anghelone (External PhD, 01/2021 - 07/2024). 
