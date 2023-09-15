@@ -21,6 +21,6 @@ author_profile: true
 * Yitao Wang (MS, 09/2023 - Present)
 
 ### Former Lab Members
-* David Anghelone (External PhD, 01/2021 - 07/2024). 
-* Hanrui Wang (PhD, 06/2021 - 07/2024). First job at National Institute of Informatics.
+* David Anghelone (External PhD, 01/2021 - 07/2023). 
+* Hanrui Wang (PhD, 06/2021 - 07/2023). First job at National Institute of Informatics.
 * Yuxin Wang (MS, Intern between 08/2021 - 07/2023). First job at JD.
