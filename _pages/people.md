@@ -14,7 +14,6 @@ author_profile: true
 * Xin Ma (Main, Deep Generative Models)
 * Jing Xu (Main, GNNs in CV)
 * Yinjie Zhao (Main, Medical AI)
-* Shikun Zhang (Main, 3D Face Reconstruction)
 * Yiqiang Wang (Associate, Low-level Image Analysis)
 
 ### Research Assistants
