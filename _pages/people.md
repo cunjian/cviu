@@ -10,14 +10,15 @@ author_profile: true
 * [Cunjian Chen](https://cunjian.github.io/)
 
 ### PhD Students
-* Yixin Huang (Main, Medical AI)
+* Yixin Huang (Main, Deep Generative Models)
 * Xin Ma (Main, Deep Generative Models)
-* Jing Xu (Main, GNNs in CV)
+* Jing Xu (Main, Computer Vision)
 * Yinjie Zhao (Main, Medical AI)
 * Yiqiang Wang (Associate, Low-level Image Analysis)
 
 ### Research Assistants
 * Yitao Wang (MS, 09/2023 - Present)
+* Haojie Li (MS, 09/2023 - Present)
 
 ### Former Lab Members
 * David Anghelone (External PhD, 01/2021 - 07/2023). 
