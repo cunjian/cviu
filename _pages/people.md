@@ -12,7 +12,7 @@ author_profile: true
 ### PhD Students
 * Yixin Huang (Main, Deep Generative Models)
 * Xin Ma (Main, Deep Generative Models)
-* Jing Xu (Main, Computer Vision)
+* Jing Xu (Main, Action Synthesis and Classification)
 * Yinjie Zhao (Main, Medical AI)
 * Yiqiang Wang (Associate, Low-level Image Analysis)
 
