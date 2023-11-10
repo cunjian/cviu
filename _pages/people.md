@@ -10,10 +10,13 @@ author_profile: true
 * [Cunjian Chen](https://cunjian.github.io/)
 
 ### PhD Students
+* Qiang Gao (Main, Medical AI)
 * Yixin Huang (Main, Deep Generative Models)
+* Jingyu Lin (Main, Deep Generative Models)
 * Xin Ma (Main, Deep Generative Models)
 * Jing Xu (Main, Action Recognition)
 * Yinjie Zhao (Main, Medical AI)
+* Shikun Zhang (Main, 3D Reconstruction)
 * Yiqiang Wang (Associate, Low-level Image Analysis)
 
 ### Research Assistants
