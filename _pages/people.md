@@ -18,6 +18,8 @@ author_profile: true
 * Yinjie Zhao (Main, Medical AI)
 * Shikun Zhang (Main, 3D Reconstruction)
 * Yiqiang Wang (Associate, Low-level Image Analysis)
+* Xinghao Li (Associate, Security and Privacy)
+* Chenchen Tan (Associate, Security and Privacy)
 
 ### Research Assistants
 * Yitao Wang (MS, 09/2023 - Present)
