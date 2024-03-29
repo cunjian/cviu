@@ -24,6 +24,7 @@ author_profile: true
 ### Research Assistants
 * Yitao Wang (MS, 09/2023 - Present)
 * Haojie Li (MS, 09/2023 - Present)
+* Longhuan Xu (MS, 03/2024 - Present)
 
 ### Former Lab Members
 * David Anghelone (External PhD, 07/2023). 
