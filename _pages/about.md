@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Image and Vision Lab!"
+title: "Welcome to Image and Vision Group!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-The image and vision lab performs research in the fields of image and video analysis, computer vision, and deep learning. The lab's director is [Dr. Cunjian Chen](https://cunjian.github.io/).
+The image and vision group performs research in the fields of image and video analysis, computer vision, and deep learning. The gropu's director is [Dr. Cunjian Chen](https://cunjian.github.io/).
 
 ### News
 - Dr. Chen served as Area Chair for FG 2021.
