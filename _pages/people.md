@@ -11,17 +11,16 @@ author_profile: true
 
 ### PhD Students
 * Qiang Gao (Main, Medical AI)
-* Yixin Huang (Main, Deep Generative Models)
 * Jingyu Lin (Main, Deep Generative Models)
 * Xin Ma (Main, Deep Generative Models)
 * Jing Xu (Main, Action Recognition)
-* Yinjie Zhao (Main, Medical AI)
 * Shikun Zhang (Main, 3D Reconstruction)
-* Yiqiang Wang (Associate, Low-level Image Analysis)
 * Xinghao Li (Associate, Security and Privacy)
 * Chenchen Tan (Associate, Security and Privacy)
+* Yiqiang Wang (Associate, Low-level Image Analysis)
 
 ### Research Assistants
+* Shijian Wang (MS, 09/2024 - Present)
 * Yitao Wang (MS, 09/2023 - Present)
 * Haojie Li (MS, 09/2023 - Present)
 * Longhuan Xu (MS, 03/2024 - Present)
