@@ -12,7 +12,7 @@ author_profile: true
 ### PhD Students
 * Qiang Gao (Main, Medical AI)
 * Jingyu Lin (Main, Deep Generative Models)
-* Xin Ma (Main, Deep Generative Models)
+* [Xin Ma](https://scholar.google.com.hk/citations?hl=en&user=dN8QWCQAAAAJ) (Main, Deep Generative Models)
 * Jing Xu (Main, Action Recognition)
 * Shikun Zhang (Main, 3D Reconstruction)
 * Xinghao Li (Associate, Security and Privacy)
