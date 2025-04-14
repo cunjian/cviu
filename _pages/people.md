@@ -20,10 +20,12 @@ author_profile: true
 * Yiqiang Wang (Associate, Low-level Image Analysis)
 
 ### Research Assistants
+* Zhiyuan Xia (MS, 11/2024 - Present)
 * Shijian Wang (MS, 09/2024 - Present)
 * Yitao Wang (MS, 09/2023 - Present)
 * Haojie Li (MS, 09/2023 - Present)
 * Longhuan Xu (MS, 03/2024 - Present)
+
 
 ### Former Lab Members
 * David Anghelone (External PhD, 07/2023). 
