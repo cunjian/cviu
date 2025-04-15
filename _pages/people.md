@@ -13,7 +13,7 @@ author_profile: true
 * Qiang Gao (Main, Medical AI)
 * Jingyu Lin (Main, Deep Generative Models)
 * [Xin Ma](https://scholar.google.com.hk/citations?hl=en&user=dN8QWCQAAAAJ) (Main, Deep Generative Models)
-* Jing Xu (Main, Action Recognition)
+* [Jing Xu](https://scholar.google.com/citations?user=IgWwy2UAAAAJ&hl=en) (Main, Action Recognition)
 * [Shikun Zhang](https://scholar.google.com/citations?user=KKhmdbkAAAAJ&hl=en) (Main, 3D Reconstruction)
 * Xinghao Li (Associate, Security and Privacy)
 * Chenchen Tan (Associate, Security and Privacy)
