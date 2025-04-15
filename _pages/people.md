@@ -14,7 +14,7 @@ author_profile: true
 * Jingyu Lin (Main, Deep Generative Models)
 * [Xin Ma](https://scholar.google.com.hk/citations?hl=en&user=dN8QWCQAAAAJ) (Main, Deep Generative Models)
 * Jing Xu (Main, Action Recognition)
-* Shikun Zhang (Main, 3D Reconstruction)
+* [Shikun Zhang](https://scholar.google.com/citations?user=KKhmdbkAAAAJ&hl=en) (Main, 3D Reconstruction)
 * Xinghao Li (Associate, Security and Privacy)
 * Chenchen Tan (Associate, Security and Privacy)
 * Yiqiang Wang (Associate, Low-level Image Analysis)
