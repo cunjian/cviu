@@ -17,9 +17,12 @@ author_profile: true
 * [Shikun Zhang](https://scholar.google.com/citations?user=KKhmdbkAAAAJ&hl=en) (Main, 3D Reconstruction)
 * Xinghao Li (Associate, Security and Privacy)
 * Chenchen Tan (Associate, Security and Privacy)
+* Khue Tran (Associate, Medical AI)
 * Yiqiang Wang (Associate, Low-level Image Analysis)
 
 ### Research Assistants
+* Xiaohaoyang Lei (MS, 06/2025 - Present) 
+* Yunyao Shen (MS, 12/2024 - Present)
 * Zhiyuan Xia (MS, 11/2024 - Present)
 * Shijian Wang (MS, 09/2024 - Present)
 * Yitao Wang (MS, 09/2023 - Present)
