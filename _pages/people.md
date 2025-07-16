@@ -21,6 +21,7 @@ author_profile: true
 * Yiqiang Wang (Associate, Low-level Image Analysis)
 
 ### Research Assistants
+* Xiaohaoyang Lei (MS, 06/2025 - Present)
 * Yunyao Shen (MS, 12/2024 - Present)
 * Zhiyuan Xia (MS, 11/2024 - Present)
 * Shijian Wang (MS, 09/2024 - Present)
