@@ -18,7 +18,6 @@ author_profile: true
 * Xinghao Li (Associate, Security and Privacy)
 * Chenchen Tan (Associate, Security and Privacy)
 * Khue Tran (Associate, Medical AI)
-* Yiqiang Wang (Associate, Low-level Image Analysis)
 
 ### Research Assistants
 * Xiaohaoyang Lei (MS, 06/2025 - Present)
