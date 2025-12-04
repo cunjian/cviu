@@ -22,10 +22,8 @@ author_profile: true
 ### Research Assistants
 * Kai Cheng (MS, 09/2025 - Present)
 * Xiaohaoyang Lei (MS, 06/2025 - Present)
-* Yunyao Shen (MS, 12/2024 - Present)
 * Zhiyuan Xia (MS, 11/2024 - Present)
 * Longhuan Xu (MS, 03/2024 - Present)
-* Shijian Wang (MS, 09/2024 - Present)
 * Haojie Li (MS, 09/2023 - Present)
 
 
@@ -34,3 +32,6 @@ author_profile: true
 * [Hanrui Wang](https://scholar.google.co.jp/citations?user=1XTseJEAAAAJ&hl=ja) (PhD, 12/2023). First job at National Institute of Informatics.
 * Yuxin Wang (MS, Intern between 08/2021 - 07/2023). First job at JD.
 * Yitao Wang (MS, 09/2023 - 06/2025).
+* Shijian Wang (MS, 09/2024 - 11/2025)
+* Yunyao Shen (MS, 12/2024 - 08/2025)
+
