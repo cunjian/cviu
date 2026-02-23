@@ -15,9 +15,11 @@ author_profile: true
 * [Xin Ma](https://scholar.google.com.hk/citations?hl=en&user=dN8QWCQAAAAJ) (Main, Deep Generative Models)
 * [Jing Xu](https://scholar.google.com/citations?user=IgWwy2UAAAAJ&hl=en) (Main, Deep Generative Models)
 * [Shikun Zhang](https://scholar.google.com/citations?user=KKhmdbkAAAAJ&hl=en) (Main, 3D Reconstruction)
+* Kunyuan Xie (Associate)
 * Xinghao Li (Associate, Security and Privacy)
 * Chenchen Tan (Associate, Security and Privacy)
 * Khue Tran (Associate, Medical AI)
+
 
 ### Research Assistants
 * Kai Cheng (MS, 09/2025 - Present)
