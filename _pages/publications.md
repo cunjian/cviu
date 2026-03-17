@@ -18,6 +18,8 @@ Zhongliang Guo, Lei Fang, Jingyu Lin, Yifei Qian, Shuai Zhao, Zeyu Wang, Junhao 
 
 Xinghao Li, Chi Liu, Youyang Qu, Shujie Cui, **Cunjian Chen**, Xingliang Yuan, Zongyuan Ge, Longxiang Gao, "Navigating Unlearning in Medical AI: A Framework for Diabetic Retinopathy Classification," IEEE Transactions on Emerging Topics in Computational Intelligence (**TETCI**), October 2025
 
+Yong Zhang, **Cunjian Chen**, Qiang Gao, Yi Wang, Bin Fang, "Scale-View Co-Awareness Framework for Simultaneous Segmentation of Pancreas and Tumors," IEEE Transactions on Instrumentation and Measurement (**TIM**), June 2025
+
 Xin Ma, Yaohui Wang, Gengyun Jia, Xinyuan Chen, Ziwei Liu, Yuan-Fang Li, **Cunjian Chen**, Yu Qiao, "Latte: Latent Diffusion Transformer for Video Generation," Transactions on Machine Learning Research (**TMLR**), April 2025
 
 Yaohui Wang, Xinyuan Chen, Xin Ma, Shangchen Zhou, Ziqi Huang, Yi Wang, Ceyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang, Yuwei Guo, Tianxing Wu, Chenyang Si, Yuming Jiang, **Cunjian Chen**, Chen Change Loy, Bo Dai, Dahua Lin, Yu Qiao, Ziwei Liu, "LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models," International Journal of Computer Vision (**IJCV**), October 2024
