@@ -13,7 +13,7 @@ The image and vision group performs research in the fields of image and video an
 ### News
 - \[03/2026\] One paper was accepted by [ICME 2026](https://2026.ieeeicme.org/).
 - \[02/2026\] I will serve as a Program co-Chair for [ACMMM 2026](https://2026.acmmm.org/site/committee.html ).
-- \[02/2026\] Two papers were accepted by [CVPR](https://cvpr.thecvf.com/)!
+- \[02/2026\] Two papers were accepted by [CVPR 2026](https://cvpr.thecvf.com/)!
 - \[02/2026\] One paper was accepted by IEEE TPAMI!
 - \[01/2026\] One paper was accepted by IEEE TNNLS.
 - \[01/2026\] I am serving as an Area Chair for [IJCNN 2026](https://attend.ieee.org/wcci-2026/ijcnn-2026-topics/ ).
