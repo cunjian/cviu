@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Journals
+### Selected Journals
 Xin Ma, Yaohui Wang, Genyun Jia, Xinyuan Chen, Tien-Tsin Wong, **Cunjian Chen**, "Consistent and Controllable Image Animation with Motion Linear Diffusion Transformers," IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), February 2026. 
 [PDF](https://arxiv.org/pdf/2508.07246)
 
@@ -28,7 +28,7 @@ Yaohui Wang, Xin Ma, Xinyuan Chen, **Cunjian Chen**, Antitza Dancheva, Bo Dai, Y
 Hanrui Wang, Shuo Wang, **Cunjian Chen**, Massimo Tistarelli, Zhe Jin, "A Multi-task Adversarial Attack Against Face Authentication," ACM Transactions on Multimedia Computing, Communications and Applications (**TOMM**), November 2024
 
 
-### Conferences
+### Selected Conferences
 Shijian Wang, Runhao Fu, Siyi Zhao, Qingqin Zhan, Xingjian Wang, Jiarui Jin, Yuan Lu, Hanqian Wu, **Cunjian Chen**, “Synthetic Curriculum Reinforces Compositional Text-to-Image Generation,” IEEE/CVF Conference on Computer Vision & Pattern Recognition (**CVPR**), February 2026
 
 Shikun Zhang, Yong Li, Yiqun Wang, Qiuhong Ke, **Cunjian Chen**, “Fresco: Frequency–Spatial Consistent Optimization for Fine-Grained Head Avatar Modeling,” IEEE/CVF Conference on Computer Vision & Pattern Recognition (**CVPR**), February 2026
