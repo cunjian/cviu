@@ -46,4 +46,4 @@ Xin Ma, Yaohui Wang, Gengyun Jia, Xinyuan Chen, Tien-Tsin Wong, Yuan-Fang Li, **
 Jingyu Lin, Guiqin Zhao, Jing Xu, Guoli Wang, Zejin Wang, Antitza Dantcheva, Lan Du, **Cunjian Chen**, "DiffTV: Identity-Preserved Thermal-to-Visible Face Translation via Feature Alignment and Dual-Stage Conditions," ACM Multimedia (**ACMMM**), October 2024
 
 
-A. Ross and **C. Chen**, "Can Gender be Predicted from Near-Infrared Face Images?". Proc. of International Conference on Image Analysis and Recognition (ICIAR), (Burnaby, Canada), June 2011. 2011. [PDF](http://www.cse.msu.edu/~rossarun/pubs/RossNIRGender_ICIAR2011.pdf)
+A. Ross and **C. Chen**, "Can Gender be Predicted from N
