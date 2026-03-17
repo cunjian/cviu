@@ -44,6 +44,4 @@ Quanjian Song, Donghao Zhou, Jingyu Lin, Fei Shen, Jiaze Wang, Xiaowei Hu, **Cun
 Xin Ma, Yaohui Wang, Gengyun Jia, Xinyuan Chen, Tien-Tsin Wong, Yuan-Fang Li, **Cunjian Chen**, "Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models," IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), June 2025
 
 Jingyu Lin, Guiqin Zhao, Jing Xu, Guoli Wang, Zejin Wang, Antitza Dantcheva, Lan Du, **Cunjian Chen**, "DiffTV: Identity-Preserved Thermal-to-Visible Face Translation via Feature Alignment and Dual-Stage Conditions," ACM Multimedia (**ACMMM**), October 2024
-
-
 A. Ross and **C. Chen**, "Can Gender be Predicted from N
