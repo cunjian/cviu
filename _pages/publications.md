@@ -9,10 +9,23 @@ author_profile: true
 D. Reid, S. Samangooei, **C. Chen**, M. S. Nixon, A. Ross , "Soft Biometrics for Surveillance: An Overview". in Handbook of Statistics, Vol. 31, C. R. Rao and V. Govindaraju (Eds.), Elsevier 2013. 
 
 ### Journals
-Xin Ma, Yaohui Wang, Genyun Jia, Xinyuan Chen, Tien-Tsin Wong, **Cunjian Chen**, "Consistent and Controllable Image Animation with Motion Linear Diffusion Transformers", IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), February 2026. 
+Xin Ma, Yaohui Wang, Genyun Jia, Xinyuan Chen, Tien-Tsin Wong, **Cunjian Chen**, "Consistent and Controllable Image Animation with Motion Linear Diffusion Transformers," IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), February 2026. 
 [PDF](https://arxiv.org/pdf/2508.07246)
 
-**C. Chen** and A. Ross, "Matching Thermal to Visible Face Images Using Hidden Factor Analysis in a Cascaded Subspace Learning Framework”, Pattern Recognition Letters, 2016. [PDF](http://www.cse.msu.edu/~rossarun/pubs/ChenRossThermalVisibleFace_PRL2016.pdf)
+Chenchen Tan, Xinghao Li, Qouyang Qu, **Cunjian Chen**, Shujie Cui, Longxiang Gao, "Logits-Level Balanced Machine Unlearning for LLM-Based Recommendation System,” IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), January 2026. [PDF](http://www.cse.msu.edu/~rossarun/pubs/ChenRossThermalVisibleFace_PRL2016.pdf)
+
+Zhongliang Guo, Lei Fang, Jingyu Lin, Yifei Qian, Shuai Zhao, Zeyu Wang, Junhao Dong, **Cunjian Chen**, Ognjen Arandjelović, Chun Pong Lau, "A Grey-box Attack against Latent Diffusion Model-based Image Editing by Posterior Collapse," IEEE Transactions on Information Forensics & Security (**TIFS**), January 2026. [PDF](https://arxiv.org/pdf/2408.10901)
+
+Xinghao Li, Chi Liu, Youyang Qu, Shujie Cui, **Cunjian Chen**, Xingliang Yuan, Zongyuan Ge, Longxiang Gao, "Navigating Unlearning in Medical AI: A Framework for Diabetic Retinopathy Classification," IEEE Transactions on Emerging Topics in Computational Intelligence (**TETCI**), October 2025
+
+Xin Ma, Yaohui Wang, Gengyun Jia, Xinyuan Chen, Ziwei Liu, Yuan-Fang Li, **Cunjian Chen**, Yu Qiao, "Latte: Latent Diffusion Transformer for Video Generation," Transactions on Machine Learning Research (**TMLR**), April 2025
+
+Yaohui Wang, Xinyuan Chen, Xin Ma, Shangchen Zhou, Ziqi Huang, Yi Wang, Ceyuan Yang, Yinan He, Jiashuo Yu, Peiqing Yang, Yuwei Guo, Tianxing Wu, Chenyang Si, Yuming Jiang, **Cunjian Chen**, Chen Change Loy, Bo Dai, Dahua Lin, Yu Qiao, Ziwei Liu, "LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models," International Journal of Computer Vision (**IJCV**), October 2024
+
+Hanrui Wang, Ruoxi Sun, **Cunjian Chen**, Minhui Xue, Lay-Ki Soon, Shuo Wang, Zhe Jin, "Iterative Window Mean Filter: Thwarting Diffusion-based Adversarial Purification," IEEE Transactions on Dependable and Secure Computing (**TDSC**), September 2024
+
+Yaohui Wang, Xin Ma, Xinyuan Chen, **Cunjian Chen**, Antitza Dancheva, Bo Dai, Yu Qiao, "LEO: Generative Latent Image Animator for Human Video Synthesis," International Journal of Computer Vision (**IJCV**), August 2024
+
 
 ### Conferences
 D. Anghelone, **C. Chen**, P. Faure, A. Ross, A. Dantcheva, “Explainable Thermal to Visible Face Recognition Using Latent-Guided Generative Adversarial Network,” Proc. of 16th IEEE International Conference on Automatic Face & Gesture Recognition (FG), December 2021.
