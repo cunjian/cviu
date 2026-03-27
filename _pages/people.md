@@ -10,7 +10,7 @@ author_profile: true
 * [Cunjian Chen](https://cunjian.github.io/)
 
 ### PhD Students
-* Qiang Gao (Main, Medical AI)
+* [Qiang Gao](https://scholar.google.com/citations?user=aDVMv3cAAAAJ&hl=en) (Main, Medical AI)
 * Jingyu Lin (Main, Deep Generative Models)
 * [Xin Ma](https://scholar.google.com.hk/citations?hl=en&user=dN8QWCQAAAAJ) (Main, Deep Generative Models)
 * [Jing Xu](https://scholar.google.com/citations?user=IgWwy2UAAAAJ&hl=en) (Main, Deep Generative Models)
