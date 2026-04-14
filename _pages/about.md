@@ -11,6 +11,10 @@ redirect_from:
 The image and vision group performs research in the fields of image and video analysis, computer vision, and deep learning. The group's PI is [Dr. Cunjian Chen](https://cunjian.github.io/).
 
 ### News
+- \[04/2026\] [OmniShow](https://correr-zhou.github.io/OmniShow) was released on arXiv.
+- \[04/2026\] I will join the Editorial Board of [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition/).
+- \[04/2026\] I will join the Editorial Board of [The Visual Computer](https://link.springer.com/journal/371).
+- \[03/2026\] [ST-GDance++](https://arxiv.org/pdf/2603.22316) was released on arXiv.
 - \[03/2026\] One paper was accepted by [ICME 2026](https://2026.ieeeicme.org/).
 - \[02/2026\] I will serve as a Program co-Chair for [ACMMM 2026](https://2026.acmmm.org/site/committee.html ).
 - \[02/2026\] Two papers were accepted by [CVPR 2026](https://cvpr.thecvf.com/)!
