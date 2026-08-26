@@ -55,7 +55,7 @@ Quanjian Song, Donghao Zhou, Jingyu Lin, Fei Shen, Jiaze Wang, Xiaowei Hu, **Cun
 
 Chenchen Tan, Youyang Qu, Xinghao Li, Hui Zhang, Shujie Cui, **Cunjian Chen**, Longxiang Gao, "Wisdom is Knowing What not to Say: Hallucination-Free LLMs Unlearning via Attention Shifting," Neural Information Processing Systems (**NeurIPS**), December 2025
 
-Jing Xu, Weiqiang Wang, Cunjian Chen, Jun Liu, Qiuhong Ke, "ST-GDance: Long-Term and Collision-Free Group Choreography from Music," British Machine Vision Conference (**BMVC**), November 2025
+Jing Xu, Weiqiang Wang, **Cunjian Chen**, Jun Liu, Qiuhong Ke, "ST-GDance: Long-Term and Collision-Free Group Choreography from Music," British Machine Vision Conference (**BMVC**), November 2025
 
 Yong Zhang, **Cunjian Chen**, Qiang Gao, Yi Wang, Bin Fang, "Scale-View Co-Awareness Framework for Simultaneous Segmentation of Pancreas and Tumors," IEEE Transactions on Instrumentation and Measurement (**TIM**), June 2025
 
@@ -63,13 +63,13 @@ Xin Ma, Yaohui Wang, Gengyun Jia, Xinyuan Chen, Ziwei Liu, Yuan-Fang Li, **Cunji
 
 Shikun Zhang, Yiqun Wang, **Cunjian Chen**, Yong Li, Qiuhong Ke, "3D Surface Reconstruction with Enhanced High-Frequency Details," Visual Communication and Image Representation, May 2025
 
-Zhiyun Song, Yinjie Zhao, Xiaomin Li, Manman Fei, Xiangyu Zhao, Mengjun Liu, Cunjian Chen, Chung-Hsing Yeh, Qian Wang, Guoyan Zheng, Songtao Ai, Lichi Zhang, "REHRSeg: Unleashing the power of self-supervised super-resolution for resource-efficient 3D MRI segmentation," Neurocomputing, April 2025
+Zhiyun Song, Yinjie Zhao, Xiaomin Li, Manman Fei, Xiangyu Zhao, Mengjun Liu, **Cunjian Chen**, Chung-Hsing Yeh, Qian Wang, Guoyan Zheng, Songtao Ai, Lichi Zhang, "REHRSeg: Unleashing the power of self-supervised super-resolution for resource-efficient 3D MRI segmentation," Neurocomputing, April 2025
 
-Qiang Gao, Yi Wang, Feiyan Zhou, Jing Wen, Yong Li, Bin Fang, Peng Chen, Lan Du, Cunjian Chen, "MSFM-UNET: enhancing medical image segmentation with multi-scale and multi-view frequency fusion," Pattern Analysis and Applications, March 2025
+Qiang Gao, Yi Wang, Feiyan Zhou, Jing Wen, Yong Li, Bin Fang, Peng Chen, Lan Du, **Cunjian Chen**, "MSFM-UNET: enhancing medical image segmentation with multi-scale and multi-view frequency fusion," Pattern Analysis and Applications, March 2025
 
-Jing Xu, Anqi Zhu, Jingyu Lin, Qiuhong Ke, Cunjian Chen, "Skeleton-OOD: An end-to-end skeleton-based model for robust out-of-distribution human action detection," Neurocomputing, February 2025
+Jing Xu, Anqi Zhu, Jingyu Lin, Qiuhong Ke, **Cunjian Chen**, "Skeleton-OOD: An end-to-end skeleton-based model for robust out-of-distribution human action detection," Neurocomputing, February 2025
 
-David Anghelone, Cunjian Chen, Arun Ross, Antitza Dantcheva, "Beyond the visible: A survey on cross-spectral face recognition," Neurocomputing, January 2025
+David Anghelone, **Cunjian Chen**, Arun Ross, Antitza Dantcheva, "Beyond the visible: A survey on cross-spectral face recognition," Neurocomputing, January 2025
 
 
 
