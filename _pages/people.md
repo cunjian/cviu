@@ -13,8 +13,8 @@ author_profile: true
 * [Qiang Gao](https://scholar.google.com/citations?user=aDVMv3cAAAAJ&hl=en) (Medical AI)
 * Jingyu Lin (Deep Generative Models)
 * [Jing Xu](https://scholar.google.com/citations?user=IgWwy2UAAAAJ&hl=en) (Deep Generative Models)
-* [Shikun Zhang](https://scholar.google.com/citations?hl=en&user=5HpPqwsAAAAJ&authuser=1) (3D Reconstruction)
 * Jingjiao You (3D Reconstruction)
+* [Shikun Zhang](https://scholar.google.com/citations?hl=en&user=5HpPqwsAAAAJ&authuser=1) (3D Reconstruction)
 * Kunyuan Xie (NLP)
 * Xinghao Li (Security and Privacy)
 * Chenchen Tan (Security and Privacy)
@@ -24,12 +24,11 @@ author_profile: true
 ### Research Assistants
 * Kai Cheng (MS, 09/2025 - Present)
 * Xiaohaoyang Lei (MS, 06/2025 - Present)
-* Zhiyuan Xia (MS, 11/2024 - Present)
-* Longhuan Xu (MS, 03/2024 - Present)
 * Haojie Li (MS, 09/2023 - Present)
 
-
 ### Former Lab Members
+* Longhuan Xu (MS, 03/2024 - 06/2026)
+* Zhiyuan Xia (MS, 11/2024 - 06/2026)
 * [Xin Ma](https://scholar.google.com.hk/citations?hl=en&user=dN8QWCQAAAAJ) (PhD, 03/2026).
 * [David Anghelone](https://scholar.google.co.uk/citations?user=ZUby46EAAAAJ) (External PhD, 07/2023). 
 * [Hanrui Wang](https://scholar.google.co.jp/citations?user=1XTseJEAAAAJ&hl=ja) (PhD, 12/2023). First job at National Institute of Informatics.
