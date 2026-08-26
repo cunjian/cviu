@@ -10,14 +10,15 @@ author_profile: true
 * [Cunjian Chen](https://cunjian.github.io/)
 
 ### PhD Students
-* [Qiang Gao](https://scholar.google.com/citations?user=aDVMv3cAAAAJ&hl=en) (Main, Medical AI)
-* Jingyu Lin (Main, Deep Generative Models)
-* [Jing Xu](https://scholar.google.com/citations?user=IgWwy2UAAAAJ&hl=en) (Main, Deep Generative Models)
-* [Shikun Zhang](https://scholar.google.com/citations?hl=en&user=5HpPqwsAAAAJ&authuser=1) (Main, 3D Reconstruction)
-* Kunyuan Xie (Associate)
-* Xinghao Li (Associate, Security and Privacy)
-* Chenchen Tan (Associate, Security and Privacy)
-* Khue Tran (Associate, Medical AI)
+* [Qiang Gao](https://scholar.google.com/citations?user=aDVMv3cAAAAJ&hl=en) (Medical AI)
+* Jingyu Lin (Deep Generative Models)
+* [Jing Xu](https://scholar.google.com/citations?user=IgWwy2UAAAAJ&hl=en) (Deep Generative Models)
+* [Shikun Zhang](https://scholar.google.com/citations?hl=en&user=5HpPqwsAAAAJ&authuser=1) (3D Reconstruction)
+* Jingjiao You (3D Reconstruction)
+* Kunyuan Xie (NLP)
+* Xinghao Li (Security and Privacy)
+* Chenchen Tan (Security and Privacy)
+* Khue Tran (Medical AI)
 
 
 ### Research Assistants
