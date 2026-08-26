@@ -32,14 +32,7 @@ Shijian Wang, Runhao Fu, Siyi Zhao, Qingqin Zhan, Xingjian Wang, Jiarui Jin, Yua
 
 Chenchen Tan, Xinghao Li, Qouyang Qu, Cunjian Chen, Shujie Cui, Longxiang Gao, "Logits-Level Balanced Machine Unlearning for LLM-Based Recommendation System," IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), January 2026
 
-Zhongliang Guo, Lei Fang, Jingyu Lin, Yifei Qian, Shuai Zhao, Zeyu Wang, Junhao Dong, Cunjian Chen, Ognjen Arandjelović, Chun Pong Lau, "A Grey-box Attack against Latent Diffusion Model-based Image Editing by Posterior Collapse," January 2026
-
-Xin Ma, Yaohui Wang, Genyun Jia, Xinyuan Chen, Tien-Tsin Wong, **Cunjian Chen**, "Consistent and Controllable Image Animation with Motion Linear Diffusion Transformers," IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), February 2026. 
-[PDF](https://arxiv.org/pdf/2508.07246)
-
-Chenchen Tan, Xinghao Li, Qouyang Qu, **Cunjian Chen**, Shujie Cui, Longxiang Gao, "Logits-Level Balanced Machine Unlearning for LLM-Based Recommendation System,” IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), January 2026. [PDF](http://www.cse.msu.edu/~rossarun/pubs/ChenRossThermalVisibleFace_PRL2016.pdf)
-
-Zhongliang Guo, Lei Fang, Jingyu Lin, Yifei Qian, Shuai Zhao, Zeyu Wang, Junhao Dong, **Cunjian Chen**, Ognjen Arandjelović, Chun Pong Lau, "A Grey-box Attack against Latent Diffusion Model-based Image Editing by Posterior Collapse," IEEE Transactions on Information Forensics & Security (**TIFS**), January 2026. [PDF](https://arxiv.org/pdf/2408.10901)
+Zhongliang Guo, Lei Fang, Jingyu Lin, Yifei Qian, Shuai Zhao, Zeyu Wang, Junhao Dong, Cunjian Chen, Ognjen Arandjelović, Chun Pong Lau, "A Grey-box Attack against Latent Diffusion Model-based Image Editing by Posterior Collapse," IEEE Transactions on Information Forensics & Security (**TIFS**), January 2026
 
 ### 2025
 
