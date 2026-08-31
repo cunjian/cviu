@@ -11,6 +11,14 @@ redirect_from:
 The image and vision group performs research in the fields of image and video analysis, computer vision, and deep learning. The group's PI is [Dr. Cunjian Chen](https://cunjian.github.io/).
 
 ### News
+- \[08/2026\] One paper was accepted by [KBS](https://www.sciencedirect.com/science/article/pii/S0950705126015650?dgcid=coauthor).
+- \[07/2026\] Congratulations to Chenchen Tan for winning the Dean’s Award (Student).
+- \[06/2026\] One paper was accepted by [ECCV 2026](https://eccv.ecva.net/).
+- \[06/2026\] One paper was accepted by [MICCAI 2026](https://conferences.miccai.org/2026/en/default.asp).
+- \[06/2026\] I joined the [IAPR Technical Committee on Biometrics](https://iapr-tc4.org/committee/).
+- \[05/2026\] I received 2026 Outstanding AE award from [IEEE T-BIOM](https://ieee-biometrics.org/tbiom_2026_outstanding_ae_and_reviewer_awards/).
+- \[05/2026\] I am serving as an Area Chair for [IJCB 2026](https://ijcb2026.ieee-biometrics.org).
+- \[05/2026\] We have three papers accepted by [ICML 2026](https://icml.cc/).
 - \[04/2026\] [OmniShow](https://correr-zhou.github.io/OmniShow) was released on arXiv.
 - \[04/2026\] I will join the Editorial Board of [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition/).
 - \[04/2026\] I will join the Editorial Board of [The Visual Computer](https://link.springer.com/journal/371).
