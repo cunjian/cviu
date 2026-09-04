@@ -15,6 +15,7 @@ author_profile: true
 * [Jing Xu](https://scholar.google.com/citations?user=IgWwy2UAAAAJ&hl=en) (Deep Generative Models)
 * Jingjiao You (3D Reconstruction)
 * [Shikun Zhang](https://scholar.google.com/citations?hl=en&user=5HpPqwsAAAAJ&authuser=1) (3D Reconstruction)
+* Seonggwan Ko 
 * Kunyuan Xie (NLP)
 * Xinghao Li (Security and Privacy)
 * Chenchen Tan (Security and Privacy)
