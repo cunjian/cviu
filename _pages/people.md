@@ -17,8 +17,8 @@ author_profile: true
 * [Shikun Zhang](https://scholar.google.com/citations?hl=en&user=5HpPqwsAAAAJ&authuser=1) (3D Reconstruction)
 * Seonggwan Ko 
 * Kunyuan Xie (NLP)
-* Xinghao Li (Security and Privacy)
-* Chenchen Tan (Security and Privacy)
+* [Xinghao Li](https://scholar.google.com/citations?user=U6I37QUAAAAJ&hl=zh-CN) (Security and Privacy)
+* [Chenchen Tan](https://scholar.google.com/citations?user=9ixz2aMAAAAJ&hl=zh-CN) (Security and Privacy)
 * Khue Tran (Medical AI)
 
 
