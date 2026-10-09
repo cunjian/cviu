@@ -28,7 +28,7 @@ author_profile: true
 * Haojie Li (MS, 09/2023 - Present)
 
 ### Former Lab Members
-* [Xin Ma](https://scholar.google.com.hk/citations?hl=en&user=dN8QWCQAAAAJ) (PhD, 03/2026).
+* [Xin Ma](https://scholar.google.com.hk/citations?hl=en&user=dN8QWCQAAAAJ) (PhD, 03/2026). First job at Bilibili.
 * [David Anghelone](https://scholar.google.co.uk/citations?user=ZUby46EAAAAJ) (External PhD, 07/2023). 
 * [Hanrui Wang](https://scholar.google.co.jp/citations?user=1XTseJEAAAAJ&hl=ja) (PhD, 12/2023). First job at National Institute of Informatics.
 * Longhuan Xu (MS, 03/2024 - 06/2026). PhD student at Nanjing University. 
