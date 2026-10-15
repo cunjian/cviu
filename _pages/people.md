@@ -23,6 +23,7 @@ author_profile: true
 
 
 ### Research Assistants
+* Kaiqi Zhang (MS, 08/2026 - Present)
 * Kai Cheng (MS, 09/2025 - Present)
 * Xiaohaoyang Lei (MS, 06/2025 - Present)
 * Haojie Li (MS, 09/2023 - Present)
