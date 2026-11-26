@@ -38,7 +38,7 @@ author_profile: true
 
   Dissertation: [Diffusion-based Adversarial Purification Protecting Face Authentication Systems from Multi-task Gray-box Attacks](https://bridges.monash.edu/articles/thesis/Diffusion-based_Adversarial_Purification_Protecting_Face_Authentication_Systems_from_Multi-task_Gray-box_Attacks/24981813?file=43997766).
   
-* Currently with: National Institute of Informatics.
+  Currently with: National Institute of Informatics.
 
 ### Former Masters/RA Students  
 * Longhuan Xu (MS, 03/2024 - 06/2026). PhD student at Nanjing University. 
