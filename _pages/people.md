@@ -21,17 +21,20 @@ author_profile: true
 * [Chenchen Tan](https://scholar.google.com/citations?user=9ixz2aMAAAAJ&hl=zh-CN) (Security and Privacy)
 * Khue Tran (Medical AI)
 
-
 ### Research Assistants
 * Kaiqi Zhang (MS, 08/2026 - Present)
 * Kai Cheng (MS, 09/2025 - Present)
 * Xiaohaoyang Lei (MS, 06/2025 - Present)
 * Haojie Li (MS, 09/2023 - Present)
 
-### Former Lab Members
-* [Xin Ma](https://scholar.google.com.hk/citations?hl=en&user=dN8QWCQAAAAJ) (PhD, 03/2026). First job at Bilibili.
+### Former PhD Students
+* [Xin Ma](https://scholar.google.com.hk/citations?hl=en&user=dN8QWCQAAAAJ) (PhD, 03/2026). First job at 
+  Dissertation: [Conditional Visual Content Creation Based on Generative Models](https://bridges.monash.edu/articles/thesis/Conditional_Visual_Content_Creation_Based_on_Generative_Models/31841101).
+  Currently with: Bilibili.
 * [David Anghelone](https://scholar.google.co.uk/citations?user=ZUby46EAAAAJ) (External PhD, 07/2023). 
 * [Hanrui Wang](https://scholar.google.co.jp/citations?user=1XTseJEAAAAJ&hl=ja) (PhD, 12/2023). First job at National Institute of Informatics.
+
+### Former Masters/RA Students  
 * Longhuan Xu (MS, 03/2024 - 06/2026). PhD student at Nanjing University. 
 * Zhiyuan Xia (MS, 11/2024 - 06/2026)
 * Yuxin Wang (MS, Intern between 08/2021 - 07/2023). First job at JD.
