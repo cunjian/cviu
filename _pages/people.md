@@ -30,13 +30,17 @@ author_profile: true
 ### Former PhD Students
 * [Xin Ma](https://scholar.google.com.hk/citations?hl=en&user=dN8QWCQAAAAJ) (PhD, 03/2026).
   
-  Dissertation: [Conditional Visual Content Creation Based on Generative Models](https://bridges.monash.edu/articles/thesis/Conditional_Visual_Content_Creation_Based_on_Generative_Models/31841101).
+  Dissertation: Conditional Visual Content Creation Based on Generative Models.
   
   Currently with: Bilibili.
-* [David Anghelone](https://scholar.google.co.uk/citations?user=ZUby46EAAAAJ) (External PhD, 07/2023). 
+  
+* [David Anghelone](https://scholar.google.co.uk/citations?user=ZUby46EAAAAJ) (External PhD, 07/2023).
+
+  Dissertation: Computer vision and deep learning applied to face recognition in the invisible spectrum.
+
 * [Hanrui Wang](https://scholar.google.co.jp/citations?user=1XTseJEAAAAJ&hl=ja) (PhD, 12/2023).
 
-  Dissertation: [Diffusion-based Adversarial Purification Protecting Face Authentication Systems from Multi-task Gray-box Attacks](https://bridges.monash.edu/articles/thesis/Diffusion-based_Adversarial_Purification_Protecting_Face_Authentication_Systems_from_Multi-task_Gray-box_Attacks/24981813?file=43997766).
+  Dissertation: Diffusion-based Adversarial Purification Protecting Face Authentication Systems from Multi-task Gray-box Attacks.
   
   Currently with: National Institute of Informatics.
 
