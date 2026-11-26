@@ -28,8 +28,10 @@ author_profile: true
 * Haojie Li (MS, 09/2023 - Present)
 
 ### Former PhD Students
-* [Xin Ma](https://scholar.google.com.hk/citations?hl=en&user=dN8QWCQAAAAJ) (PhD, 03/2026). First job at 
+* [Xin Ma](https://scholar.google.com.hk/citations?hl=en&user=dN8QWCQAAAAJ) (PhD, 03/2026).
+  
   Dissertation: [Conditional Visual Content Creation Based on Generative Models](https://bridges.monash.edu/articles/thesis/Conditional_Visual_Content_Creation_Based_on_Generative_Models/31841101).
+  
   Currently with: Bilibili.
 * [David Anghelone](https://scholar.google.co.uk/citations?user=ZUby46EAAAAJ) (External PhD, 07/2023). 
 * [Hanrui Wang](https://scholar.google.co.jp/citations?user=1XTseJEAAAAJ&hl=ja) (PhD, 12/2023). First job at National Institute of Informatics.
